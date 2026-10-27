@@ -17,7 +17,7 @@ is omitted, the canvas is determined during authoring and recorded in
 
 ## Directory Structure
 
-A typical project usually contains the following:
+A typical project usually contains the following: lalala
 
 ```
 project_name[_registered_format]_YYYYMMDD/
